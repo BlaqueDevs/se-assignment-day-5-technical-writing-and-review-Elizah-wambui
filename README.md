@@ -60,7 +60,6 @@ Simple CTAs for Novices: Use straightforward CTAs like "Learn More," "Try It Now
 
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
-
 1. Conduct Surveys and Polls
 Pre-Event Surveys: Send out surveys or polls before a presentation, webinar, or meeting to assess the participants' familiarity with the topic. Include questions about their experience level, specific interests, and any prior knowledge they may have.
 Feedback Forms: Use feedback forms after initial interactions to gauge their understanding and adjust future content accordingly.
@@ -158,7 +157,7 @@ Improvement: "Fix" and "restart" are more accessible than "rectify" and "perform
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 
-1. Examples
+  1. Examples
  1.1. Provide Context
 
 Relevance: Examples ground abstract concepts in real-world scenarios, making them more relatable. For instance, explaining a technical process using a common household task helps readers understand how the process works in familiar terms.
