@@ -265,7 +265,8 @@ Purpose: They indicate the logical flow of information and the relationship betw
 Benefit: Readers can better understand how individual parts contribute to the overall message or argument of the document.
 
 ## 10. What are some best practices for creating effective headings and subheadings?
-       1. Be Clear and Descriptive
+
+1. Be Clear and Descriptive
 1.1. Use Descriptive Titles
 
 Purpose: Ensure headings and subheadings clearly describe the content of the section.
@@ -316,6 +317,7 @@ Best Practice: Avoid too many subheadings within a single section. If there are 
 
       
 ## 11. What should be included in the introduction of a Readme to immediately inform users about what the product does?
+
 1. Project Title
 1.1. Clear and Concise Title
 
@@ -350,7 +352,8 @@ Purpose: List any prerequisites needed to use the product.
 Best Practice: Mention any necessary software, libraries, or configurations. For example, “Requires Node.js v14 or higher and npm.”
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
-       1. Craft a Clear Product Overview
+
+1. Craft a Clear Product Overview
 1.1. State the Core Purpose
 
 What It Is: Briefly describe what the product is and its primary function.
